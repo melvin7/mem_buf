@@ -6,3 +6,23 @@
 *.xcscheme
 
 mem_buf.xcodeproj/xcuserdata/xichen.xcuserdatad/xcschemes/xcschememanagement.plist
+
+._*
+*.suo
+Debug/*
+
+*.tlog
+
+*.obj
+
+*.exe
+
+*.ilk
+
+*.lastbuildstate
+
+*.log
+
+*.pdb
+
+*.idb
