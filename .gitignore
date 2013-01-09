@@ -1,0 +1,8 @@
+
+*.xcuserstate
+
+*.xcsettings
+
+*.xcscheme
+
+mem_buf.xcodeproj/xcuserdata/xichen.xcuserdatad/xcschemes/xcschememanagement.plist
